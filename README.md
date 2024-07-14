@@ -2,6 +2,8 @@
 
 ### Here are the topics we’ll cover
 
-- How to use the next/link component.
-- How to show an active link with the usePathname() hook.
-- How navigation works in Next.js.
+#### Push your project to GitHub.
+
+- Set up a Vercel account and link your GitHub repo for instant previews and deployments..
+- Create and link your project to a Postgres database.
+- Seed the database with initial data.
