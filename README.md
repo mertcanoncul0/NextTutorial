@@ -2,5 +2,5 @@
 
 ### Here are the topics we’ll cover
 
-- What Partial Prerendering is.
-- How Partial Prerendering works.
+- Learn how to use the Next.js APIs: useSearchParams, usePathname, and useRouter.
+- Implement search and pagination using URL search params.
