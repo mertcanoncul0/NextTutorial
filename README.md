@@ -2,5 +2,8 @@
 
 ### Here are the topics we’ll cover
 
-- Learn how to use the Next.js APIs: useSearchParams, usePathname, and useRouter.
-- Implement search and pagination using URL search params.
+- What React Server Actions are and how to use them to mutate data.
+- How to work with forms and Server Components.
+- Best practices for working with the native formData object, including type validation.
+- How to revalidate the client cache using the revalidatePath API.
+- How to create dynamic route segments with specific IDs.
