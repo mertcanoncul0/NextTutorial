@@ -2,7 +2,8 @@
 
 ### Here are the topics we’ll cover
 
-- What static rendering is and how it can improve your application's performance.
-- What dynamic rendering is and when to use it.
-- Different approaches to make your dashboard dynamic.
-- Simulate a slow data fetch to see what happens.
+- What streaming is and when you might use it.
+- How to implement streaming with loading.tsx and Suspense.
+- What loading skeletons are.
+- What route groups are, and when you might use them.
+- Where to place Suspense boundaries in your application.
