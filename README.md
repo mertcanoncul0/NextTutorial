@@ -2,6 +2,7 @@
 
 ### Here are the topics we’ll cover
 
-- How to use eslint-plugin-jsx-a11y with Next.js to implement accessibility best practices.
-- How to implement server-side form validation.
-- How to use the React useActionState hook to handle form errors, and display them to the user.
+- What is authentication.
+- How to add authentication to your app using NextAuth.js.
+- How to use Middleware to redirect users and protect your routes.
+- How to use React's useActionState to handle pending states and form errors.
